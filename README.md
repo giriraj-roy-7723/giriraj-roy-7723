@@ -37,6 +37,6 @@ I also have hands-on experience in **full-stack development**, and I love connec
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/giriraj-roy-7723/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/giriraj-roy-804a49280/)
 - 💬 Always open to collaborations, open-source contributions, and project ideas
 
