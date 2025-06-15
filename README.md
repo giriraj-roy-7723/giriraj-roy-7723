@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Giriraj Roy
 
-<!--
-**giriraj-roy-7723/giriraj-roy-7723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate AI/ML developer and open-source contributor. I love building real-world intelligent systems and participating in open-source events like SSoC.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=giriraj-roy-7723&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giriraj-roy-7723&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giriraj-roy-7723&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giriraj-roy-7723&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/giriraj-roy-7723/)
+- 📧 girirajroy@example.com
+
