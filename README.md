@@ -7,7 +7,24 @@ I enjoy building real-world, functional AI agents, participating in open-source 
 I also have hands-on experience in **full-stack development**, and I love connecting ML models with user-friendly interfaces using tools like **Streamlit** and backend technologies like **FastAPI** and **MongoDB**.
 
 ---
+## 🧠 Skillset & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
 ## 🚀 What I'm Working On
 
 - 🤖 **AI Agents** that auto-apply to 200+ jobs from platforms like Internshala using LangGraph, Gemini, Playwright, FAISS, etc.
