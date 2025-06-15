@@ -5,6 +5,8 @@ I'm a passionate and curious **AI/ML developer**, active open-source contributor
 I enjoy building real-world, functional AI agents, participating in open-source programs like **SSoC (Script Summer of Code)**, and contributing to projects that make a real impact. Whether it's deploying intelligent systems, automating tasks, or making AI accessible through clean UI/UX, I strive to create meaningful work.
 
 I also have hands-on experience in **full-stack development**, and I love connecting ML models with user-friendly interfaces using tools like **Streamlit** and backend technologies like **FastAPI** and **MongoDB**.
+---
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=giriraj-roy-7723)
 
 ---
 ## 🧠 Skillset & Tools
