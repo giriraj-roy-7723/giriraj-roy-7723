@@ -6,7 +6,8 @@ I enjoy building real-world, functional AI agents, participating in open-source 
 
 I also have hands-on experience in **full-stack development**, and I love connecting ML models with user-friendly interfaces using tools like **Streamlit** and backend technologies like **FastAPI** and **MongoDB**.
 ---
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=giriraj-roy-7723)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=giriraj-roy-7723&label=Profile%20views)
+
 
 ---
 ## 🧠 Skillset & Tools
